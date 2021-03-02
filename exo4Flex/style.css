@@ -1,9 +1,10 @@
 
 .container{
     display: flex;
-   justify-content: space-evenly;
-   border: 1px solid green;
-   margin-top: 30%;
+    align-items: flex-end;
+    height: 500px;
+   /* justify-content: space-evenly; */
+   /* margin-top: 30%; */
   }
   .round{
     margin-top: 1%;

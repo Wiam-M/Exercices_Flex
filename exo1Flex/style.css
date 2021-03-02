@@ -1,5 +1,9 @@
 .container{
     display: flex;
+    /* la flex-direction donne aussi le resultat */
+    /* flex-direction: row-reverse; */
+    justify-content: flex-end;
+
   }
   .round{
     margin-top: 1%;
